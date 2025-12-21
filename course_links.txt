@@ -1,0 +1,7 @@
+WK1
+Docker and Postegres SQL 
+https://github.com/alexeygrigorev/workshops/tree/main/dezoomcamp-docker
+ctrl+d --> exist container, back to host machine
+
+
+-------------------------------------------------------------------------
