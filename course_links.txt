@@ -1,7 +1,13 @@
 WK1
 Docker and Postegres SQL 
 https://github.com/alexeygrigorev/workshops/tree/main/dezoomcamp-docker
+
 ctrl+d --> exist container, back to host machine
 
+taxi data: 
+https://github.com/DataTalksClub/nyc-tlc-data/
+
+data dict:
+https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 -------------------------------------------------------------------------
