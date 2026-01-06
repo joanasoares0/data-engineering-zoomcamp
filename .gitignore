@@ -1,5 +1,6 @@
 *.parquet
 pipeline/ny_taxi_postgres_data/
+pipeline/gcp
 
 
 # Byte-compiled / optimized / DLL files
