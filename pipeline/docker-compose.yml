@@ -63,7 +63,7 @@ services:
         kestra:
           server:
             basicAuth:
-              username: "danmirandapro@gmail.com" # it must be a valid email address
+              username: "email@gmail.com" # it must be a valid email address
               password: Admin1234
           repository:
             type: postgres
