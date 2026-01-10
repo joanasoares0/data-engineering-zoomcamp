@@ -1,7 +1,7 @@
 *.parquet
 pipeline/ny_taxi_postgres_data/
 pipeline/gcp
-pipeline/Dockerfile
+pipeline/docker-compose.yml
 
 # Local .terraform directories
 **/.terraform/*
